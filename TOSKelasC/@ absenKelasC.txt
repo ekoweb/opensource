@@ -14,3 +14,8 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+No Presensi: 18
+Nim: 531419061
+Nama: Fahjril Ramadhan Hutuba
+URL Repository: https://github.com/FahjrilRamadhanHutuba/TugasGitHub
