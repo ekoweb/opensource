@@ -1,1 +1,4 @@
-
+NO PRESENSI : 12
+NIM : 531419033
+NAMA : MOH. YUDITO LINGGULU
+URL REPOSITORY :https://github.com/YuditoLinggulu/Tugas-1-GitHub
