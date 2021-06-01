@@ -1,1 +1,4 @@
-
+No Presensi : 26
+Nim : 531419049
+Nama : Fadillah Putriyani Djafar
+URL Repository : https://github.com/fadillahputriyanidjafar/TOSGIT1
