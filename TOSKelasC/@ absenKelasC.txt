@@ -14,3 +14,8 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+No Presensi: 19
+Nim: 531419062
+Nama: Danang setiawan
+URL Repository: https://github.com/Danangsetiawan20/Tugas1github
