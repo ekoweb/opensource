@@ -1,1 +1,4 @@
-
+No. Presensi : 14
+NIM : 531419035
+NAMA : NUR IMAM TAUFIQQULLAH YADI
+URL REPOSITORY : https://github.com/Nurimamtaufiqqullahyadi/tugas.php
