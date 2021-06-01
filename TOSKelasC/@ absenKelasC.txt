@@ -18,4 +18,5 @@ URL Repository: https://github.com/AbidHarun/program-rumus
 no presensi:27
 nim:531419071
 nama:muh rizal abdilah
+https://github.com/ekoweb/opensource/files/6575691/C-27-531419071-Muh.rizal.abdilah-converted.pdf
 
