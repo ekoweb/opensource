@@ -18,7 +18,7 @@ URL Repository: https://github.com/Ayiiegemu/TOS-Homepage
 
 
 
-No presensi: 12
-Nim : 531419013
+No Presensi: 12
+Nim: 531419013
 Nama: Fauzia Inado
-URL Repository :https://github.com/fauziainado/Tinggi-badan
+URL: https://github.com/fauziainado/Tinggi-badan
