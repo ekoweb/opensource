@@ -72,9 +72,9 @@ Nim: 531419024
 Nama: Jihan Khoirun Nisa
 URL Repository: https://github.com/jihanknisa/Materi-Javascript
 
-No Presensi 13
-Nim : 531419014
-Nama : Nur Anisa Pagau
+No presensi: 13
+Nim: 531419014
+Nama: Nur Anisa Pagau
 URL Repository : https://github.com/anisapagau/Jaringan
 
 
