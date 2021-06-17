@@ -72,7 +72,10 @@ Nim: 531419024
 Nama: Jihan Khoirun Nisa
 URL Repository: https://github.com/jihanknisa/Materi-Javascript
 
-
+No Presensi: 24
+Nim: 531419025
+Nama: Viviwidyawati A. Musa
+URL Repository: https://github.com/pemulabelajarcoding/Tugas-5-GIT
 
 
 
