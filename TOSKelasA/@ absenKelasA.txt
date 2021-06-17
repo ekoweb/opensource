@@ -31,6 +31,11 @@ Nim: 531419010
 Nama: Fajriyanto Djeden
 URL : https://github.com/djedenanji/TOS-Tugas05
 
+No presensi:12
+Nim: 531419013
+Nama: Fauzia Inado
+URL: https://github.com/fauziainado/Tinggi-badan
+
 No Presensi: 14
 Nim: 531419015
 Nama: Yuyun Andriani Suma
