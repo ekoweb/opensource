@@ -56,3 +56,8 @@ Nim: 531419072
 Nama: Sitti Sahana Fatimah Hasyim
 URL Repository: https://github.com/SahanaHasyim/HTML-Registrasi
 
+No Presensi: 18
+Nim: 531419061
+Nama: Fahjril Ramadhan Hutuba
+URL Repository: https://github.com/FahjrilRamadhanHutuba
+
