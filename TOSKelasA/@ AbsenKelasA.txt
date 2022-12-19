@@ -1,7 +1,7 @@
 PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan urutan nomor presensi.
 
 No Presensi: 15
-NIM: 531420017
+NIM:531420017
 Nama: Yudi
 URL Repository: https://github.com/YudiYudhi/UAs.Tos
 
