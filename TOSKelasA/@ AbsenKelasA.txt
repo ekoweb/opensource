@@ -32,7 +32,7 @@ NIM: 531420011
 Nama: Andresito Polamolo
 URL Repository: https://github.com/AndrePolamolo/TUGAS_TOS
 
-No Presensi:10
+No Presensi 10
 NIM: 531420012
 Nama: Sri Lutfianti
 URL Repository: https://github.com/Srilutfianti/cara-memakai-pasmina 
@@ -41,6 +41,12 @@ No Presensi: 11
 NIM: 531420013
 Nama: Jumi R Yano
 URL Repository: https://github.com/jumiyano/Tugas-TOS
+
+
+No Presensi: 13
+NIM: 531420015
+Nama: Rahayu Halid
+URL Repository: https://github.com/rahayuhalid/Tugas-Rahayu
 
 No Presensi: 17
 NIM: 531420019
