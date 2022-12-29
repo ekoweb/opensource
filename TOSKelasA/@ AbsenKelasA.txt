@@ -1,19 +1,38 @@
 PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan urutan nomor presensi.
 
-No Presensi: ...
-NIM: ...
-Nama: ...
-URL Repository: ... 
+No Presensi: 06
+NIM: 531420007
+Nama: Nova Juliyana Bonarate
+URL Repository: https://github.com/Novaliana25
 
 
-No Presensi: ...
-NIM: ...
-Nama: ...
-URL Repository: ...
+No Presensi: 06
+NIM: 531420007
+Nama: Nova Juliyana Bonarate
+URL Repository: https://github.com/Novaliana25
 
 
 
-No Presensi: ...
-NIM: ...
-Nama: ...
-URL Repository: ...
+No Presensi: 06
+NIM: 531420007
+Nama: Nova Juliyana Bonarate
+URL Repository: https://github.com/Novaliana25
+
+
+
+No Presensi: 06
+NIM: 531420007
+Nama: Nova Juliyana Bonarate
+URL Repository: https://github.com/Novaliana25
+
+
+No Presensi: 06
+NIM: 531420007
+Nama: Nova Juliyana Bonarate 
+URL Repository: https://github.com/Novaliana25
+
+
+No Presensi: 06
+NIM: 531420007
+Nama: Nova Juliyana Bonarate 
+URL Repository: https://github.com/Novaliana25
