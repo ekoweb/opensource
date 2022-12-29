@@ -42,6 +42,21 @@ NIM: 531420013
 Nama: Jumi R Yano
 URL Repository: https://github.com/jumiyano/Tugas-TOS
 
+No Presensi:
+NIM:
+Nama:
+URL Repository:
+
+No Presensi:
+NIM:
+Nama:
+URL Repository:
+
+No Presensi: 14
+NIM: 531420016
+Nama: Sakila Gobel
+URL Repository: https://github.com/sakilagobel/TOS-Tugas
+
 No Presensi: 17
 NIM: 531420019
 Nama: Nurul Fadillah H.Daud
