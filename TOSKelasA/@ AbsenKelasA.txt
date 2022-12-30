@@ -25,7 +25,6 @@ NIM: 531420008
 Nama: Nisya Fiscadilla Pala
 URL Repository: https://github.com/NisyaFiscadilla/UasTos
 
-
 No Presensi: 08
 NIM: 531420010
 Nama: Nurlia Panigoro
@@ -46,13 +45,10 @@ NIM: 531420013
 Nama: Jumi R Yano
 URL Repository: https://github.com/jumiyano/Tugas-TOS
 
-
-
 No Presensi: 12
 NIM: 531420014
 Nama: Hazral Meisa Arsad
 URL Repository: https://github.com/hazralmeisaarsyad/Tugas-TOS
-
 
 No Presensi: 14
 NIM: 531420016
